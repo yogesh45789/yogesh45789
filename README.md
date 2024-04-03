@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://codepen.io/yogesh45789" target="blank"><img src="https://img.shields.io/twitter/follow/yogesh45789?logo=codepen&style=for-the-badge" alt="codepen" /></a> </p>
 
+<p align="left"> <a href="https://github.com/yogesh45789" target="blank"><img src="https://img.shields.io/twitter/follow/yogesh45789?logo=github&style=for-the-badge" alt="github" /></a> </p>
+
 - 🌱 I’m currently learning **Test-NG, Cypress,**
 
 - 📝 My articles & Blogs on [https://yugandhardasari.hashnode.dev/](https://yugandhardasari.hashnode.dev/)
