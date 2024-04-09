@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh45789&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh45789" /> </p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mirror0000&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub&row=1)](#)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yogesh45789&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub&row=1)](#)
 
 <p align="left"> <a href="https://codepen.io/yogesh45789" target="blank"><img src="https://img.shields.io/twitter/follow/yogesh45789?logo=codepen&style=for-the-badge" alt="codepen" /></a> </p>
 
