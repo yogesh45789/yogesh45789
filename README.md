@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋🏻, I'm Yugandhar Dasari 👨🏻‍🎓</h1>
-<h3 align="center">A Passionate Frontend Web Developer and an Aspiring QA-Tester from India.</h3>
+<h3 align="center">A Passionate Frontend Web Developer from India.</h3>
 
-  <p align="center">
-    <img alt="coding" width="400"  src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+   <p align="center">
+    <img alt="coding" width="600"  src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh45789&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh45789" /> </p>
@@ -25,8 +25,9 @@
 
  ⚡ Fun fact **I am Funny 😅😆**
 
- <p align="center">
-    <a href="https://github.com/yogesh45789"><img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/forkit.gif" /></a> 
+<p style="display: flex; justify-content: space-between;">
+    <img alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*FefjABZsli07iiL2C1ysng.gif">
+    <img alt="coding" width="400" src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/forkit.gif">
 </p>
 
 <h3 align="left">Connect with me:🔗</h3>
@@ -38,10 +39,10 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23550370/yugandhar-dasari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23550370/yugandhar-dasari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/yugandhardasari93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yugandhardasari93/" height="30" width="40" /></a>
 </p>
-
- <p align="center">
-<img alt="coding" width="400"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
- </p>
+<p style="display: flex; justify-content: space-between;">
+    <img alt="coding" width="400" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif">
+    <img alt="coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">
+</p>
 
 <h2 align="left">I code with_💡🚀</h2>
 
@@ -97,8 +98,7 @@
 
 ###
 
-<div align="left">
-</div>
+<div align="center">
 
 [![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh45789&layout=compact&theme=transparent&margin-right=10)](#)
 
