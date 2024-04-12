@@ -27,9 +27,11 @@
 <br>
 
 ## 🌐 Socials 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugandhar-dasari-aa1801222/)&nbsp;
-[![CodePen](https://img.shields.io/badge/CodePen-%231DA1F2.svg?logo=Codepen&logoColor=white)](https://codepen.io/yogesh45789)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/martin20889780)&nbsp;
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugandhar-dasari-aa1801222/)&nbsp;
+[![CodePen](https://img.shields.io/badge/CodePen-%23E34F26.svg?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/yogesh45789)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/martin20889780)&nbsp;
+
 
 <br>
 
@@ -39,25 +41,27 @@
 </p>
 
 ## 💻 Tech Stack ::
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
-![Vue](https://img.shields.io/badge/vue-%23ED8B00.svg?style=for-the-badge&logo=vue&logoColor=white)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-%236DB33F.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/react-bcae79?style=for-the-badge&logo=react&logoColor=white)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp; 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
+![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
 
 <br>
 
 ## 🛠️ Tools ::
+
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Selenium-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="selenium"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Nginx-667881?style=for-the-badge&logo=replit&logoColor=white" alt="nginx" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=replit&logoColor=white" alt="nginx" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Codepen-1e272e?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="lightroom" />&nbsp;&nbsp;
@@ -71,57 +75,33 @@
 
 <br>
 
-<h2 align="left">I code with_💡🚀</h2>
+## 🚀 I Code with ⚡✨ ::
 
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34" alt="vuejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="34" alt="vuetify logo"  />
-  <img width="5" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  <img width="5" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
-  <img width="5" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="php logo"  />
-  <img width="5" />
-  <img src="https://w7.pngwing.com/pngs/46/28/png-transparent-html-code-coding-programming-development-programming-code-3d-icon-thumbnail.png" height="34" alt="html logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="34" alt="sass logo"  />
-  <img width="5" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="34" alt="pytest logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="34" alt="selenium logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="34" alt="jira logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="34" alt="postman logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="34" alt="bitbucket logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="figma logo"  />
-</div>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Selenium-58b531?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="vuetify" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="lightroom" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=Atlassian&logoColor=white" alt="atlassian" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="figma" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="python"/>&nbsp;&nbsp;
+
 
 <br>
+
  
 ## 📊 GitHub Stats ::
 
@@ -133,11 +113,14 @@
 <br>
 
 
-## ⚡ Activity Graph ::
+## ⚡ Activity Graph :: 
+
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh45789&theme=gotham&hide_border=true"/>
 
 ## 🏆 GitHub Trophies ::
+
 ![](https://github-profile-trophy.vercel.app/?username=yogesh45789&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
 
 <br>
 
