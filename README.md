@@ -18,7 +18,8 @@
 🔭 Know more about me and my Coding experiences [Leet-code](https://leetcode.com/YugandharDasari93/).
 [Hacker-Rank](https://www.hackerrank.com/profile/yugandhardasari1)
 <br>
-🤝 I’m also reachable at Dev Community [yugandhar Dasari](https://dev.to/yugandhar_dasari_93)
+🤝 I’m also reachable at Dev Community and Medium [Dev Community](https://dev.to/yugandhar_dasari_93). 
+ [Medium](https://medium.com/me)
 
 <br> 
 
